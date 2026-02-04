@@ -4,7 +4,7 @@ A Telegram bot that provides real-time multiplayer games that can be played in a
 
 You can see the bot in action by messaging [@inlinexgamesbot](https://telegram.me/inlinexgamesbot).
 
-The bot is currently hosted at [DOM Cloud](https://domcloud.co).
+The bot is currently hosted at [Heroku](https://www.heroku.com).
 
 #### Currently available games:
 
